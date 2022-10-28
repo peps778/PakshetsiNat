@@ -1,0 +1,29 @@
+body{
+    background-color:white;
+}
+
+div {
+    border:1em;
+    background-color:#808080;
+    margin:15px;
+    padding:10px;
+    border-radius:10px;
+    opacity:80%;
+    background: url('Namil.Xy.jpg');
+}
+
+ul {
+    font-weight:bold;
+    font-style:italic;
+}
+
+p { 
+    font-weight:bold;
+    font-style:sans serif;
+}
+
+a {
+    text-decoration: none;
+    border-radius:5px;
+    font-family:sans serif;
+}
